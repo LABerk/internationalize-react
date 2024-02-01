@@ -1,0 +1,16 @@
+{
+    "languageLabels": {
+        "english": "English (Anglais)",
+        "spanish": "Español (Espagnol)",
+        "arabic": "العربية (Árabe)",
+        "welsh": "Cymraeg (Gallois)",
+        "german": "Deutsch (Allemand)",
+        "french": "Français (Français)",
+        "hindi": "हिन्दी (Hindi)",
+        "russian": "Русский (Russe)",
+        "vietnamese": "Tiếng Việt (Vietnamien)",
+        "chinese": "中文 (Chinois)"
+      },
+    "helloWorld": "Bonjour le monde!",
+    "instructionText": "Sélectionnez une langue dans le menu déroulant ci-dessous pour commencer à traduire cette page."
+}

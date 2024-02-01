@@ -1,0 +1,16 @@
+{
+    "languageLabels": {
+        "english": "English (अंग्रेज़ी)",
+        "spanish": "Español (एस्पैनिश)",
+        "arabic": "العربية (अरबी)",
+        "welsh": "Cymraeg (वेल्श)",
+        "german": "Deutsch (जर्मन)",
+        "french": "Français (फ्रेंच)",
+        "hindi": "हिन्दी (Hindi)",
+        "russian": "Русский (रूसी)",
+        "vietnamese": "Tiếng Việt (वियतनामी)",
+        "chinese": "中文 (चीनी)"
+      },
+    "helloWorld": "नमस्ते, दुनिया!",
+    "instructionText": "इस पृष्ठ का अनुवाद करना शुरू करने के लिए नीचे ड्रॉपडाउन से एक भाषा का चयन करें।"
+}

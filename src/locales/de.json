@@ -1,0 +1,16 @@
+{
+    "languageLabels": {
+        "english": "English (Englisch)",
+        "spanish": "Español (Spanisch)",
+        "arabic": "العربية (Arabisch)",
+        "welsh": "Cymraeg (Walisisch)",
+        "german": "Deutsch (Deutsch)",
+        "french": "Français (Französisch)",
+        "hindi": "हिन्दी (Hindi)",
+        "russian": "Русский (Russisch)",
+        "vietnamese": "Tiếng Việt (Vietnamesisch)",
+        "chinese": "中文 (Chinesisch)"
+      },
+    "helloWorld": "Hallo Welt!",
+    "instructionText": "Wählen Sie eine Sprache aus dem Dropdown-Menü unten aus, um mit der Übersetzung dieser Seite zu beginnen."
+}
