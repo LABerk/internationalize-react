@@ -21,11 +21,14 @@ export const App = () => {
     { value: 'zh', label: t('languageLabels.chinese') },
   ];
 
+  const name = 'Laura'
+
   return (
     <>
       <div>
       </div>
       <h1>{t('helloWorld')}</h1>
+      <p>{t('andWelcome', { name })}</p>
       <p>{t('instructionText')}</p>
 
       <select onChange={(e) => translate(e.target.value)}>

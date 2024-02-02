@@ -1,0 +1,193 @@
+{
+    "en": {
+      "translation": 
+        {
+          "languageLabels": {
+            "english": "English (English)",
+            "spanish": "Español (Spanish)",
+            "arabic": "العربية (Arabic)",
+            "welsh": "Cymraeg (Welsh)",
+            "german": "Deutsch (German)",
+            "french": "Français (French)",
+            "hindi": "हिन्दी (Hindi)",
+            "russian": "Русский (Russian)",
+            "vietnamese": "Tiếng Việt (Vietnamese)",
+            "chinese": "中文 (Chinese)"
+          },
+          "helloWorld": "Hello, World",
+          "andWelcome": "And welcome, {{name}}",
+          "instructionText": "Select a language from the dropdown below to start translating this page."
+        }
+    },
+    "ar": {
+      "translation": {
+        "languageLabels": {
+            "english": "(الإنجليزية) English",
+            "spanish": "(الإسبانية) Español ",
+            "arabic": "العربية (العربية)",
+            "welsh": "(الويلزية) Cymraeg",
+            "german": "(الألمانية) Deutsch",
+            "french": "(الفرنسية) Français",
+            "hindi": "(الهندية) हिन्दी",
+            "russian": "(الروسية) Русский",
+            "vietnamese": "(الفيتنامية) Tiếng Việt",
+            "chinese": "(الصينية) 中文"
+          },
+        "helloWorld": "مرحبًا، عالم",
+        "andWelcome": "وأهلاً، {{name}}",
+        "instructionText": "حدد لغة من القائمة المنسدلة أدناه لبدء ترجمة هذه الصفحة."
+      }
+    },
+    "zh": {
+      "translation": {
+        "languageLabels": {
+          "english": "English (英语)",
+          "spanish": "Español (西班牙语)",
+          "arabic": "العربية (阿拉伯语)",
+          "welsh": "Cymraeg (威尔士语)",
+          "german": "Deutsch (德语)",
+          "french": "Français (法语)",
+          "hindi": "हिन्दी (印地语)",
+          "russian": "Русский (俄语)",
+          "vietnamese": "Tiếng Việt (越南语)",
+          "chinese": "中文 (汉语)"
+        },
+        "helloWorld": "你好，世界！",
+        "andWelcome": "欢迎，{{name}}",
+        "instructionText": "请从下面的下拉菜单中选择一种语言开始翻译此页面。"
+      }
+    },
+    "fr": {
+      "translation": {
+        "languageLabels": {
+            "english": "English (Anglais)",
+            "spanish": "Español (Espagnol)",
+            "arabic": "العربية (Árabe)",
+            "welsh": "Cymraeg (Gallois)",
+            "german": "Deutsch (Allemand)",
+            "french": "Français (Français)",
+            "hindi": "हिन्दी (Hindi)",
+            "russian": "Русский (Russe)",
+            "vietnamese": "Tiếng Việt (Vietnamien)",
+            "chinese": "中文 (Chinois)"
+          },
+        "helloWorld": "Bonjour le monde",
+        "andWelcome": "Et bienvenue, {{name}}",
+        "instructionText": "Sélectionnez une langue dans le menu déroulant ci-dessous pour commencer à traduire cette page."
+      }
+    },
+    "de": {
+      "translation": {
+        "languageLabels": {
+            "english": "English (Englisch)",
+            "spanish": "Español (Spanisch)",
+            "arabic": "العربية (Arabisch)",
+            "welsh": "Cymraeg (Walisisch)",
+            "german": "Deutsch (Deutsch)",
+            "french": "Français (Französisch)",
+            "hindi": "हिन्दी (Hindi)",
+            "russian": "Русский (Russisch)",
+            "vietnamese": "Tiếng Việt (Vietnamesisch)",
+            "chinese": "中文 (Chinesisch)"
+          },
+        "helloWorld": "Hallo Welt",
+        "andWelcome": "Und willkommen, {{name}}",
+        "instructionText": "Wählen Sie eine Sprache aus dem Dropdown-Menü unten aus, um mit der Übersetzung dieser Seite zu beginnen."
+      }
+    },
+    "hi": {
+      "translation": {
+        "languageLabels": {
+            "english": "English (अंग्रेज़ी)",
+            "spanish": "Español (एस्पैनिश)",
+            "arabic": "العربية (अरबी)",
+            "welsh": "Cymraeg (वेल्श)",
+            "german": "Deutsch (जर्मन)",
+            "french": "Français (फ्रेंच)",
+            "hindi": "हिन्दी (Hindi)",
+            "russian": "Русский (रूसी)",
+            "vietnamese": "Tiếng Việt (वियतनामी)",
+            "chinese": "中文 (चीनी)"
+          },
+        "helloWorld": "नमस्ते, दुनिया",
+        "andWelcome": "और स्वागत है, {{name}}",
+        "instructionText": "इस पृष्ठ का अनुवाद करना शुरू करने के लिए नीचे ड्रॉपडाउन से एक भाषा का चयन करें।"
+      }
+    },
+    "ru": {
+      "translation": {
+        "languageLabels": {
+            "english": "English (Английский)",
+            "spanish": "Español (Испанский)",
+            "arabic": "العربية (Арабский)",
+            "welsh": "Cymraeg (Валлийский)",
+            "german": "Deutsch (Немецкий)",
+            "french": "Français (Французский)",
+            "hindi": "हिन्दी (Хинди)",
+            "russian": "Русский (Русский)",
+            "vietnamese": "Tiếng Việt (Вьетнамский)",
+            "chinese": "中文 (Китайский)"
+          },
+        "helloWorld": "Привет, мир",
+        "andWelcome": "И добро пожаловать, {{name}}",
+        "instructionText": "Выберите язык из выпадающего списка ниже, чтобы начать переводить эту страницу."
+      }
+    },
+    "es": {
+      "translation": {
+        "languageLabels": {
+            "english": "English (Inglés)",
+            "spanish": "Español (Español)",
+            "arabic": "العربية (Árabe)",
+            "welsh": "Cymraeg (Galés)",
+            "german": "Deutsch (Alemán)",
+            "french": "Français (Francés)",
+            "hindi": "हिन्दी (Hindi)",
+            "russian": "Русский (Ruso)",
+            "vietnamese": "Tiếng Việt (Vietnamita)",
+            "chinese": "中文 (Chino)"
+          },
+        "helloWorld": "¡Hola, mundo",
+        "andWelcome": "Y bienvenido, {{name}}",
+        "instructionText": "Selecciona un idioma del menú desplegable a continuación para comenzar a traducir esta página."
+      }
+    },
+    "vi": {
+      "translation": {
+        "languageLabels": {
+            "english": "English (Tiếng Anh)",
+            "spanish": "Español (Tiếng Tây Ban Nha)",
+            "arabic": "العربية (Tiếng Ả Rập)",
+            "welsh": "Cymraeg (Tiếng Welsh)",
+            "german": "Deutsch (Tiếng Đức)",
+            "french": "Français (Tiếng Pháp)",
+            "hindi": "हिन्दी (Tiếng Hindi)",
+            "russian": "Русский (Tiếng Nga)",
+            "vietnamese": "Tiếng Việt (Tiếng Việt)",
+            "chinese": "中文 (Tiếng Trung Quốc)"
+          },
+        "helloWorld": "Xin chào, thế giới",
+        "andWelcome": "Và chào mừng, {{name}}",
+        "instructionText": "Chọn một ngôn ngữ từ danh sách bên dưới để bắt đầu dịch trang này."
+      }
+    },
+    "cy": {
+      "translation": {
+        "languageLabels": {
+            "english": "English (Saesneg)",
+            "spanish": "Español (Sbaeneg)",
+            "arabic": "العربية (Arabeg)",
+            "welsh": "Cymraeg (Cymraeg)",
+            "german": "Deutsch (Almaeneg)",
+            "french": "Français (Ffrangeg)",
+            "hindi": "हिन्दी (Hindi)",
+            "russian": "Русский (Rwsieg)",
+            "vietnamese": "Tiếng Việt (Fietnamese)",
+            "chinese": "中文 (Tsieinëeg)"
+          },
+        "helloWorld": "Helo, byd",
+        "andWelcome": "A chroeso, {{name}}",
+        "instructionText": "Dewiswch iaith o'r ddewislen isod i ddechrau cyfieithu'r dudalen hon."
+      }
+    }
+}
