@@ -12,8 +12,6 @@ export const TranslationPage = () => {
     i18n.changeLanguage(lang)
   }
 
-  console.log(state)
-
   const languageOptions = [
     { value: 'en', label: t('languageLabels.english') },
     { value: 'es', label: t('languageLabels.spanish') },
@@ -26,8 +24,6 @@ export const TranslationPage = () => {
     { value: 'vi', label: t('languageLabels.vietnamese') },
     { value: 'zh', label: t('languageLabels.chinese') },
   ];
-
-  console.log(name)
 
   return (
     <>
